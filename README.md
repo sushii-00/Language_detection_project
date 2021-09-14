@@ -1,1 +1,3 @@
-# Language_detection_project
+# Language Detection
+## Dataset:
+The dataset has been taken from kaggle.
